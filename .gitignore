@@ -1,0 +1,11 @@
+# Секреты
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Системное
+.DS_Store
+Thumbs.db
+node_modules/
