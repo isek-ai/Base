@@ -111,6 +111,7 @@ git push
 - **Superpowers**: `brainstorming`, `writing-plans`, `executing-plans`, `test-driven-development`, `systematic-debugging`, `verification-before-completion`, `requesting-code-review`, `receiving-code-review`, `using-git-worktrees`, `subagent-driven-development`, `dispatching-parallel-agents`, `finishing-a-development-branch`, `writing-skills`.
 - **Anthropic skills**: работа с файлами (`docx`, `pptx`, `xlsx`, `pdf`), `docs`, `google-workspace`, `deep-research`, `schedule`, `skill-creator`, браузеры (`built-in-browser`, `chrome-browser`), `computer-use`, `consolidate-memory`, `import-memory`, `morning`.
 - **Cowork-плагины**: `create-cowork-plugin`, `cowork-plugin-customizer`.
+- **Mattpocock skills** (`mattpocock-skills`, плагин): `tdd`, `grilling`, `code-review`, `diagnosing-bugs` и др. Установка: `claude plugin install mattpocock-skills@claude-plugins-official`. Копия исходников: `skills/mattpocock-skills` (источник: https://github.com/mattpocock/skills).
 - **Встроенные команды Claude Code**: `code-review`, `simplify`, `security-review`, `init`, `loop`, `schedule`, `run`, `update-config`, `keybindings-help`, `fewer-permission-prompts`, `claude-api`.
 
 ### Какой инструмент выбрать
