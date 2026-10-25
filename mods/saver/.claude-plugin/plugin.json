@@ -1,0 +1,6 @@
+{
+  "name": "saver",
+  "version": "0.1.0",
+  "description": "Routes simple prompts to cheaper models and shows a running cost and savings counter",
+  "types": "./types/index.d.ts"
+}
